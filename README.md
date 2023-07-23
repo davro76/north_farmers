@@ -5,7 +5,7 @@ NORTH FARMERS INDICATORS
 
 This step involves the following:
 
-1.1- Definition of Objectives: Based on the project indicators, such as the number of beneficiaries disaggregated by gender, new or ancient farmers, target crops, and type of benefits disaggregated by gender and commune. Also, total area disaggregated by gender, commune, and target crops.
+1.1- Definition of Objectives: Based on the project indicators, such as the number of beneficiaries disaggregated by gender, new or ancient farmers, target crops, and type of benefits disaggregated by gender and commune. Also, total area disaggregated by gender, commune, and target crops. Lastly, crop association type and frequency.
 
 1.2- Data Source: Population of farmers within the study area.
 
