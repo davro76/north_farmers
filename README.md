@@ -29,7 +29,7 @@ In this step, we compute indicators, create statistical tables, charts, maps, an
 
 The data will be visualized using tools such as Power BI, Streamlit, or R Shiny.
 
-Overall, the revised text is clearer and more concise. It emphasizes the steps involved in the data collection process and the tools used for data analysis and visualization.
+
 
 
 
